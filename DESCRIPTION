@@ -7,9 +7,9 @@ Description: Programmatic interface to the
 Version: 1.1.1
 License: MIT + file LICENSE
 Authors@R: c(
-    person("Lee", "Marsh", role = c("aut", "cre"), email = "lee@usanpn.org"),
+    person("Lee", "Marsh", role = "aut"),
     person("Scott", "Chamberlain", role = "aut"),
-    person("Alyssa", "Rosemartin", role= "aut", email = "alyssa@usanpn.org"),
+    person("Alyssa", "Rosemartin", role= c("aut", "cre"), email = "alyssa@usanpn.org"),
     person("Kevin", "Wong", role = "aut", email = "kevin@usanpn.org"),
     person("David", "LeBauer", role = "ctb", email = "dlebauer@arizona.edu")
     )
